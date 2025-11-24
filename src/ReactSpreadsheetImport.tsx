@@ -1,5 +1,4 @@
 import merge from "lodash/merge"
-
 import { Steps } from "./steps/Steps"
 import { rtlThemeSupport, themeOverrides } from "./theme"
 import { Providers } from "./components/Providers"
